@@ -1,6 +1,7 @@
 spousteni programu:
-./sudoku "cesta k souboru"
+-spustit sudoku.exe
+-vybrat hodnotu 1-4
+-hrát
 
-napr:
-./sudoku sudoku.txt
-./sudoku sudoku1.txt
+
+
